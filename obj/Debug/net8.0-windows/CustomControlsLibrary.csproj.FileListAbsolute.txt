@@ -16,3 +16,5 @@ C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\Custom
 C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\refint\CustomControlsLibrary.dll
 C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\CustomControlsLibrary.pdb
 C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\ref\CustomControlsLibrary.dll
+C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\DialogHost\DialogHost.baml
+C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\DialogHost\DialogHost.g.cs

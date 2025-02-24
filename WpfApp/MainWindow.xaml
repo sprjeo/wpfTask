@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:CustomControlsLibrary;assembly=CustomControlsLibrary"
+        Title="Main Window" Height="300" Width="400">
+    <Grid>
+        <Button Content="Show Dialog" HorizontalAlignment="Center" VerticalAlignment="Center" Click="ShowDialog_Click"/>
+
+        <!-- DialogHost -->
+        <local:DialogHost x:Name="dialogHost" Visibility="Collapsed">
+            <StackPanel>
+                <TextBlock Text="This is a dialog!" Margin="10" />
+                <Button Content="Close" Click="CloseDialog_Click" />
+            </StackPanel>
+        </local:DialogHost>
+    </Grid>
+</Window>

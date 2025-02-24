@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\CustomControlsLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9FAA671-134F-4AA3-ACF0-F587B6F55EDA}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9FAA671-134F-4AA3-ACF0-F587B6F55EDA}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9FAA671-134F-4AA3-ACF0-F587B6F55EDA}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A9FAA671-134F-4AA3-ACF0-F587B6F55EDA}|..\\WpfApp\\WpfApp.csproj|c:\\users\\user\\source\\repos\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFBB725D-AF83-4D7F-8054-88D4CD3C8CDF}|CustomControlsLibrary.csproj|c:\\users\\user\\source\\repos\\customcontrolslibrary\\spinner\\spinner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -15,6 +15,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{BFBB725D-AF83-4D7F-8054-88D4CD3C8CDF}|CustomControlsLibrary.csproj|c:\\users\\user\\source\\repos\\customcontrolslibrary\\spinner\\spinner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFBB725D-AF83-4D7F-8054-88D4CD3C8CDF}|CustomControlsLibrary.csproj|solutionrelative:spinner\\spinner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBB725D-AF83-4D7F-8054-88D4CD3C8CDF}|CustomControlsLibrary.csproj|c:\\users\\user\\source\\repos\\customcontrolslibrary\\dialoghost\\dialoghost.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFBB725D-AF83-4D7F-8054-88D4CD3C8CDF}|CustomControlsLibrary.csproj|solutionrelative:dialoghost\\dialoghost.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBB725D-AF83-4D7F-8054-88D4CD3C8CDF}|CustomControlsLibrary.csproj|c:\\users\\user\\source\\repos\\customcontrolslibrary\\dialoghost\\dialoghost.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFBB725D-AF83-4D7F-8054-88D4CD3C8CDF}|CustomControlsLibrary.csproj|solutionrelative:dialoghost\\dialoghost.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFBB725D-AF83-4D7F-8054-88D4CD3C8CDF}|CustomControlsLibrary.csproj|c:\\users\\user\\source\\repos\\customcontrolslibrary\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -48,6 +56,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DialogHost.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CustomControlsLibrary\\DialogHost\\DialogHost.xaml.cs",
+              "RelativeDocumentMoniker": "DialogHost\\DialogHost.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CustomControlsLibrary\\DialogHost\\DialogHost.xaml.cs",
+              "RelativeToolTip": "DialogHost\\DialogHost.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:31:09.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DialogHost.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CustomControlsLibrary\\DialogHost\\DialogHost.xaml",
+              "RelativeDocumentMoniker": "DialogHost\\DialogHost.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CustomControlsLibrary\\DialogHost\\DialogHost.xaml",
+              "RelativeToolTip": "DialogHost\\DialogHost.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T16:30:53.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Spinner.xaml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CustomControlsLibrary\\Spinner\\Spinner.xaml",
@@ -56,6 +89,31 @@
               "RelativeToolTip": "Spinner\\Spinner.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-24T15:30:01.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\WpfApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "..\\WpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-23T13:16:29.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\WpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:16:29.048Z",
               "EditorCaption": ""
             },
             {
@@ -73,44 +131,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "..\\WpfApp\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp\\MainWindow.xaml",
-              "RelativeToolTip": "..\\WpfApp\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-23T13:16:29.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WpfApp\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\WpfApp\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\WpfApp\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\WpfApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T13:16:29.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Generic.xaml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CustomControlsLibrary\\Themes\\Generic.xaml",
               "RelativeDocumentMoniker": "Themes\\Generic.xaml",
               "ToolTip": "C:\\Users\\User\\source\\repos\\CustomControlsLibrary\\Themes\\Generic.xaml",
               "RelativeToolTip": "Themes\\Generic.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-24T12:56:11.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T12:56:11.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CustomButton.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CustomControlsLibrary\\CustomButton.cs",
               "RelativeDocumentMoniker": "CustomButton.cs",
@@ -118,8 +150,7 @@
               "RelativeToolTip": "CustomButton.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAkwFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T13:13:06.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T13:13:06.81Z"
             }
           ]
         }

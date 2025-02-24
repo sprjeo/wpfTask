@@ -68,7 +68,7 @@ namespace CustomControlsLibrary {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/CustomControlsLibrary;component/spinner/spinner.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/CustomControlsLibrary;V1.0.0.0;component/spinner/spinner.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Spinner\Spinner.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

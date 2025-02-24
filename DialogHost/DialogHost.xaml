@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="CustomControlsLibrary.DialogHost"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Background="{Binding Background, RelativeSource={RelativeSource AncestorType=UserControl}}">
+    <Grid>
+        <Rectangle Fill="Black" Opacity="{Binding BackgroundOpacity}" />
+        <Border CornerRadius="{Binding CornerRadius}" Background="White">
+            <ContentPresenter x:Name="Content" />
+        </Border>
+    </Grid>
+</UserControl>
