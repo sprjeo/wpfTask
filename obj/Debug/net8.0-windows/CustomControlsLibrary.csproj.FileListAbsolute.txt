@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CustomControlsLibrary\bin\Debug\net8.0-windows\CustomControlsLibrary.deps.json
+C:\Users\User\source\repos\CustomControlsLibrary\bin\Debug\net8.0-windows\CustomControlsLibrary.dll
+C:\Users\User\source\repos\CustomControlsLibrary\bin\Debug\net8.0-windows\CustomControlsLibrary.pdb
+C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\CustomControlsLibrary_MarkupCompile.cache
+C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\CustomControlsLibrary_MarkupCompile.lref
+C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\CustomControlsLibrary.g.resources
+C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\CustomControlsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\CustomControlsLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\CustomControlsLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\CustomControlsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\CustomControlsLibrary.dll
+C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\refint\CustomControlsLibrary.dll
+C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\CustomControlsLibrary.pdb
+C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\ref\CustomControlsLibrary.dll
+C:\Users\User\source\repos\CustomControlsLibrary\obj\Debug\net8.0-windows\Themes\Generic.baml
