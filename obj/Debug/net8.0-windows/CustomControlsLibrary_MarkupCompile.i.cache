@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 
-1204305769
+2-152177137
 
-41669620578
+5-939439450
 198-1431420039
-Themes\Generic.xaml;
+Spinner\Spinner.xaml;Themes\Generic.xaml;
 
 False
 
